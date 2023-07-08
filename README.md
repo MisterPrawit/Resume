@@ -1,5 +1,4 @@
 # Resume
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,7 +28,6 @@
                 <li>Cleanin Lobby</li>
                 <li>Cashier</li>
             </ul>
-        </li>
     </ul>
     <hr />
     <h2>Skill</h2>
